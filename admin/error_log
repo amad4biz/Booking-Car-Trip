@@ -1,0 +1,54 @@
+[03-Nov-2014 21:26:32 America/Chicago] PHP Fatal error:  Cannot redeclare DriversCommission::delete() in /home1/xpress47/public_html/app/admin/application/controllers/driverscommission.php on line 202
+[03-Nov-2014 21:26:37 America/Chicago] PHP Fatal error:  Cannot redeclare DriversCommission::delete() in /home1/xpress47/public_html/app/admin/application/controllers/driverscommission.php on line 202
+[03-Nov-2014 21:26:41 America/Chicago] PHP Fatal error:  Cannot redeclare DriversCommission::delete() in /home1/xpress47/public_html/app/admin/application/controllers/driverscommission.php on line 202
+[15-Dec-2014 01:45:57 America/Chicago] PHP Notice:  fwrite(): send of 12 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:45:57 America/Chicago] PHP Notice:  fwrite(): send of 40 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:45:57 America/Chicago] PHP Notice:  fwrite(): send of 32 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:45:57 America/Chicago] PHP Notice:  fwrite(): send of 6 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:45:57 America/Chicago] PHP Notice:  fwrite(): send of 1200 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:45:57 America/Chicago] PHP Notice:  fwrite(): send of 3 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:46:57 America/Chicago] PHP Notice:  fwrite(): send of 12 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:46:57 America/Chicago] PHP Notice:  fwrite(): send of 40 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:46:57 America/Chicago] PHP Notice:  fwrite(): send of 32 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:46:57 America/Chicago] PHP Notice:  fwrite(): send of 6 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:46:57 America/Chicago] PHP Notice:  fwrite(): send of 1200 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:46:57 America/Chicago] PHP Notice:  fwrite(): send of 3 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:47:57 America/Chicago] PHP Notice:  fwrite(): send of 12 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:47:57 America/Chicago] PHP Notice:  fwrite(): send of 40 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:47:57 America/Chicago] PHP Notice:  fwrite(): send of 32 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:47:57 America/Chicago] PHP Notice:  fwrite(): send of 6 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:47:57 America/Chicago] PHP Notice:  fwrite(): send of 1200 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:47:57 America/Chicago] PHP Notice:  fwrite(): send of 3 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:48:58 America/Chicago] PHP Notice:  fwrite(): send of 12 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:48:58 America/Chicago] PHP Notice:  fwrite(): send of 40 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:48:58 America/Chicago] PHP Notice:  fwrite(): send of 32 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:48:58 America/Chicago] PHP Notice:  fwrite(): send of 6 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:48:58 America/Chicago] PHP Notice:  fwrite(): send of 1198 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:48:58 America/Chicago] PHP Notice:  fwrite(): send of 3 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:49:58 America/Chicago] PHP Notice:  fwrite(): send of 12 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:49:58 America/Chicago] PHP Notice:  fwrite(): send of 40 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:49:58 America/Chicago] PHP Notice:  fwrite(): send of 32 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:49:58 America/Chicago] PHP Notice:  fwrite(): send of 6 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:49:58 America/Chicago] PHP Notice:  fwrite(): send of 1204 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:49:58 America/Chicago] PHP Notice:  fwrite(): send of 3 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:50:58 America/Chicago] PHP Notice:  fwrite(): send of 12 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:50:58 America/Chicago] PHP Notice:  fwrite(): send of 40 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:50:58 America/Chicago] PHP Notice:  fwrite(): send of 32 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:50:58 America/Chicago] PHP Notice:  fwrite(): send of 6 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:50:58 America/Chicago] PHP Notice:  fwrite(): send of 1198 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:50:58 America/Chicago] PHP Notice:  fwrite(): send of 3 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:51:58 America/Chicago] PHP Notice:  fwrite(): send of 12 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:51:58 America/Chicago] PHP Notice:  fwrite(): send of 40 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:51:58 America/Chicago] PHP Notice:  fwrite(): send of 32 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:51:58 America/Chicago] PHP Notice:  fwrite(): send of 6 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:51:58 America/Chicago] PHP Notice:  fwrite(): send of 1369 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[15-Dec-2014 01:51:58 America/Chicago] PHP Notice:  fwrite(): send of 3 bytes failed with errno=32 Broken pipe in /home1/xpress47/public_html/app/admin/system/libraries/Email.php on line 1846
+[19-Jan-2015 00:50:59 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home1/xpress47/public_html/app/admin/application/views/reservation/dsp_tripcost.php on line 28
+[20-Jan-2015 01:54:39 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/xpress47/public_html/app/admin/application/models/reservation_model.php on line 593
+[20-Jan-2015 01:54:54 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/xpress47/public_html/app/admin/application/models/reservation_model.php on line 593
+[20-Jan-2015 01:55:19 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/xpress47/public_html/app/admin/application/models/reservation_model.php on line 593
+[28-Jan-2015 23:43:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home1/xpress47/public_html/app/admin/application/models/driverscommission_model.php on line 112
+[30-Jan-2015 02:48:49 America/Chicago] PHP Fatal error:  Call to undefined method DriversCommission_model::get_driversBookingCommissions() in /home1/xpress47/public_html/app/admin/application/controllers/driverscommission.php on line 47
+[01-Feb-2015 23:14:45 America/Chicago] PHP Fatal error:  Call to a member function get_drivers() on a non-object in /home1/xpress47/public_html/app/admin/application/controllers/driverscommission.php on line 49
+[01-Feb-2015 23:15:44 America/Chicago] PHP Fatal error:  Call to undefined method Driver_model::get_drivers() in /home1/xpress47/public_html/app/admin/application/controllers/driverscommission.php on line 50
+[13-Feb-2015 01:29:52 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/xpress47/public_html/app/admin/application/views/reservation/form_reservation.php on line 331
